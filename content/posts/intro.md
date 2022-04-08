@@ -20,3 +20,5 @@ se empezo y con el paso del tiempo se logro.
 Para mi, desarrollar software, ser un desarrollar, conlleva una gran responsabilidad, un gran compromiso,
 pero es una actividad donde se obtendran grandes recompensas, donde muchos ojos podran ver y personas usar
 lo que con tanto esfuerzo y dedicacion, nosotros creamos.
+
+by: Gambii007 🍀
