@@ -21,7 +21,7 @@ Hay días difíciles, donde solo tal vez solo quiero dormir sin hacer nada,
 pero ver nuevas oportunidades que se me presentan, cosas nuevas que aprender
 mejorar lo que se o hasta practicar lo que se, es en ese momento donde me pregunto
 
-##### > ¿Por qué no?
+##### >¿Por qué no?
 
 Ahora bien, aquí andamos, soy Licenciado con 25 años, actualmente soy vendedor
 pero quiero aprender, quiero ejercer lo que se, quiero crecer, quiero ayudar. 
