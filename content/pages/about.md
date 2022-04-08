@@ -17,14 +17,13 @@ Una personita que quiere aprender, soñar y crecer.
 puedo decir que me siento feliz y orgulloso de haberlo logrado, durante un tiempo
 eh estado lejos de este ámbito y apenas me estoy acostumbrado a de nuevo a esto.
 
-Hay días difíciles, donde solo tal vez solo quiero dormir sin hacer nada,
-pero ver nuevas oportunidades que se me presentan, cosas nuevas que aprender
-mejorar lo que se o hasta practicar lo que se, es en ese momento donde me pregunto
+Hay días difíciles, donde tal vez solo quiero dormir sin hacer nada,
+pero ver nuevas oportunidades que se me presentan, cosas nuevas que aprender,
+mejorar o hasta practicar, es en ese momento donde me pregunto
 
 >¿Por qué no?
 
-Ahora bien, aquí andamos, soy Licenciado con 25 años, actualmente soy vendedor
-pero quiero aprender, quiero ejercer lo que se, quiero crecer, quiero ayudar. 
+Ahora bien, aquí andamos, soy Licenciado con 25 años, quiero crecer, quiero ayudar. 
 
 by: gambii007 🍀
 
