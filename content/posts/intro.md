@@ -4,7 +4,7 @@ date: 2022-04-08T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Buen Dia a todos.
+Buen dia a todos.
 
 Desarrollar un Software, requiere de muchas cosas para lograrlo, sin duda es una gran experiencia el hacerlo,
 la dedicacion que una persona o un grupo de personas le pone, la imaginacion, la diciplina, la responsabilidad
