@@ -35,4 +35,4 @@ Back-end
 lejos de este ambito, pero espero y quiero aprender mas, saber mas, mirar las cosas con los ojos de asombro
 y querer aprender aun mucho mas, saber nuevas tecnologias y poder implementarlas, para mi, para todos.
 
-by - Gambii007 🍀
+by: Gambii007 🍀
