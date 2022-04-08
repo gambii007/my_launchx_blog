@@ -1,6 +1,6 @@
 ---
 title: "Mi ruta de aprendizaje en Launch X"
-date: 2022--04-08
+date: 2022-04-08
 description: 'Mi travesia ante un sueño que guia mi camino.'
 ---
 
@@ -34,3 +34,5 @@ Back-end
 -Ahora empezamos uno nuevo, el backend tal vez sea un poco dificil despues de varios dias, semanas o meses
 lejos de este ambito, pero espero y quiero aprender mas, saber mas, mirar las cosas con los ojos de asombro
 y querer aprender aun mucho mas, saber nuevas tecnologias y poder implementarlas, para mi, para todos.
+
+by - Gambii007 🍀
