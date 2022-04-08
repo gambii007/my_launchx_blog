@@ -8,13 +8,13 @@ Hola ✌️  soy el explorer Gamboa y este es mi blog personal donde compartiré
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para esta mision son:
- **Mejorar mis habilidades en el uso de Git y Github.
+ - Mejorar mis habilidades en el uso de Git y Github.
  
- Usar mis conocimientos de frontEnd para hacer mejores diseños.
+ - Usar mis conocimientos de frontEnd para hacer mejores diseños.
  
- Aprender a hacer backend para hacer mas completos mis conocimientos.
+ - Aprender a hacer backend para hacer mas completos mis conocimientos.
  
- Evidenciar mis experiencias.**
+ - Evidenciar mis experiencias.
  
 
 🚀
