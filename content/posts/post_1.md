@@ -1,7 +1,7 @@
 ---
 title: "Mi ruta de aprendizaje en Launch X"
-date: 2022-03-01
-description: 'Mi travesia ante un sueño que guia mi camino'
+date: 2022--04-08
+description: 'Mi travesia ante un sueño que guia mi camino.'
 ---
 
 Qué tal? Han sido dias largos, dias cansados y noches largas, dia a dia e estado presente,
