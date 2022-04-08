@@ -1,21 +1,26 @@
 ---
-title: 'About me'
+title: 'Sobre mi'
 menu:
   main:
     name: "AboutMe"
 ---
 
-## Who am I
+## Quien Soy?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Una personita que quiere aprender, soñar y crecer 
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Es dificil, pero vale la pena intentarlo.
+> No te rindas.
+> Llena de Orgullo a las personas que te quieren de ver quien eres.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**LCC** Estudie en la UADY ha sido un trayecto largo, dificil, pero ahora
+puedo decir que me siento feliz y orgulloso de haberlo logrado, durante un tiempo
+eh estado lejos de est ambito, hay dias dificiles, donde solo queremos dormir,
+pero ver nuevas oportunidades que se me presentan, es aqui donde me digo
+>¿Por que no?
+
+Ahora bien aqui andamos, soy Licenciado, 25 años, quiero aprender,
+quiero ejercer lo que se, quiero crecer, quiero ayudar.
+
+by: gambii007 🍀
 
