@@ -7,20 +7,24 @@ menu:
 
 ## Quien Soy?
 
-Una personita que quiere aprender, soñar y crecer 
+Una personita que quiere aprender, soñar y crecer. 
 
-> Es dificil, pero vale la pena intentarlo.
-> No te rindas.
-> Llena de Orgullo a las personas que te quieren de ver quien eres.
+> -Es difícil, pero vale la pena intentarlo.
+> -No te rindas.
+> -Llena de Orgullo a las personas que te quieren de ver quién eres.
 
-**LCC** Estudie en la UADY ha sido un trayecto largo, dificil, pero ahora
+**LCC**. Estudie en la UADY ha sido un trayecto largo y difícil, pero ahora
 puedo decir que me siento feliz y orgulloso de haberlo logrado, durante un tiempo
-eh estado lejos de est ambito, hay dias dificiles, donde solo queremos dormir,
-pero ver nuevas oportunidades que se me presentan, es aqui donde me digo
->¿Por que no?
+eh estado lejos de este ámbito y apenas me estoy acostumbrado a de nuevo a esto.
 
-Ahora bien aqui andamos, soy Licenciado, 25 años, quiero aprender,
-quiero ejercer lo que se, quiero crecer, quiero ayudar.
+Hay días difíciles, donde solo tal vez solo quiero dormir sin hacer nada,
+pero ver nuevas oportunidades que se me presentan, cosas nuevas que aprender
+mejorar lo que se o hasta practicar lo que se, es en ese momento donde me pregunto
+
+##### > ¿Por qué no?
+
+Ahora bien, aquí andamos, soy Licenciado con 25 años, actualmente soy vendedor
+pero quiero aprender, quiero ejercer lo que se, quiero crecer, quiero ayudar. 
 
 by: gambii007 🍀
 
